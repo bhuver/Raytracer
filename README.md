@@ -1,9 +1,10 @@
 # Raytracer
 
 Version amélioré du RTv1 comportant plus d'objets et effets visuels.
+
 Une interface permettant des modifications en live a aussi été ajouté grâce à GTK.
 
-Projet de groupe pour l'ecole 42: bhuver, fdel-car, slgracie et vde-la-s.
+Projet de groupe pour l'ecole 42: #bhuver, #fdel-car, #slgracie et #vde-la-s.
 
 ### Reflection
 
