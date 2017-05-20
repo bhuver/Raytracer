@@ -1,21 +1,22 @@
-# Rtv2
+# Raytracer
 
-Version amélioré du raytracer basique comportant plus de formes et d'effets visuels. Un interface permettant des modifications en live a aussi été ajouté grâce à GTK.
+Version amélioré du RTv1 comportant plus d'objets et effets visuels.
+Une interface permettant des modifications en live a aussi été ajouté grâce à GTK.
 
-Nous étions 4 à participer à la réalisation du projet.
+Projet de groupe pour l'ecole 42: bhuver, fdel-car, slgracie et vde-la-s.
 
-### reflection
+### Reflection
 
-![alt tag](https://github.com/fdel-car/RTv2/blob/master/ressources/saves/reflection.jpeg)
+![alt tag](https://github.com/bhuver/Raytracer/blob/master/ressources/saves/reflection.jpeg)
 
-### mirrors_edge
+### Mirrors_edge
 
-![alt tag](https://github.com/fdel-car/RTv2/blob/master/ressources/saves/mirrors_edge.jpeg)
+![alt tag](https://github.com/bhuver/Raytracer/blob/master/ressources/saves/mirrors_edge.jpeg)
 
-### fox
+### Fox
 
-![alt tag](https://github.com/fdel-car/RTv2/blob/master/ressources/saves/fox.jpeg)
+![alt tag](https://github.com/bhuver/Raytracer/blob/master/ressources/saves/fox.jpeg)
 
-### cut_objects
+### Cut_objects
 
-![alt tag](https://github.com/fdel-car/RTv2/blob/master/ressources/saves/cut_objects.jpeg)
+![alt tag](https://github.com/bhuver/Raytracer/blob/master/ressources/saves/cut_objects.jpeg)
